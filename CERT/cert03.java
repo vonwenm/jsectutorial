@@ -14,7 +14,7 @@ import sun.security.x509.X500Name;
 import sun.security.x509.X509CertImpl;
 import sun.security.x509.X509CertInfo;
 
-public class MainClass {
+public class cert03 {
   public static void main(String[] args) throws Exception {
     String keystoreFile = "keyStoreFile.bin";
     String caAlias = "caAlias";
