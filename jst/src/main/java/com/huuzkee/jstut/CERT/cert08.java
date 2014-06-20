@@ -1,7 +1,7 @@
 //36.7.8.Exporting a Certificate to a File
 //http://www.java2s.com/Tutorial/Java/0490__Security/ExportingaCertificatetoaFile.htm
 
-/*
+
 package com.huuzkee.jstut.CERT;
 
 import java.io.File;
@@ -37,4 +37,3 @@ public class cert08 {
   }
 }
 
-*/

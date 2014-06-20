@@ -1,7 +1,7 @@
 //36.12.6.Encrypting a String with DES
 //http://www.java2s.com/Tutorial/Java/0490__Security/EncryptingaStringwithDES.htm
 
-/*
+
 
 package com.huuzkee.jstut.DES;
 
@@ -51,4 +51,3 @@ public class des06 {
     String decrypted = encrypter.decrypt(encrypted);
   }
 }
-*/

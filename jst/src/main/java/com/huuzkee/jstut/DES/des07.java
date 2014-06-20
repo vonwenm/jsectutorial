@@ -1,6 +1,8 @@
 //36.12.7.Encrypting a File or Stream with DES
 //http://www.java2s.com/Tutorial/Java/0490__Security/EncryptingaFileorStreamwithDES.htm
 
+/*
+
 package com.huuzkee.jstut.DES;
 
 import java.io.FileInputStream;
@@ -60,3 +62,5 @@ public class des07 {
     encrypter.decrypt(new FileInputStream("ciphertext.txt"), new FileOutputStream("cleartext02.txt"));
   }
 }
+
+*/

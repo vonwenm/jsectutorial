@@ -2,7 +2,6 @@
 //http://www.java2s.com/Tutorial/Java/0490__Security/ABlowfishexample.htm
 
 /*
-
 package com.huuzkee.jstut.BLOW;
 
 
