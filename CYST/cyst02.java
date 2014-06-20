@@ -1,3 +1,6 @@
+//36.11.2.Using CipherOutputStream
+//http://www.java2s.com/Tutorial/Java/0490__Security/UsingCipherOutputStream.htm
+
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;

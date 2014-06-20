@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.io.InputStream;
 import java.security.MessageDigest;
 
-public class Main {
+public class digs01 {
   public static void main(String args[]) throws Exception {
     InputStream fis = new FileInputStream("a.exe");
 

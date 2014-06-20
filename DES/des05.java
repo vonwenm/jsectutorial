@@ -1,3 +1,7 @@
+//36.12.5.Encrypting with DES Using a Pass Phrase
+//http://www.java2s.com/Tutorial/Java/0490__Security/EncryptingwithDESUsingaPassPhrase.htm
+
+
 import java.security.spec.AlgorithmParameterSpec;
 import java.security.spec.KeySpec;
 

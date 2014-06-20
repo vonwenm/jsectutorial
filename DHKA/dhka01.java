@@ -1,3 +1,6 @@
+//36.14.1.Diffie-Hellman Key Agreement
+//http://www.java2s.com/Tutorial/Java/0490__Security/DiffieHellmanKeyAgreement.htm
+
 import java.math.BigInteger;
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;

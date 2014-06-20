@@ -1,3 +1,6 @@
+//36.13.2.Sealed Objects
+//http://www.java2s.com/Tutorial/Java/0490__Security/SealedObjects.htm
+
 import java.security.Key;
 
 import javax.crypto.Cipher;

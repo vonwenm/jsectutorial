@@ -1,3 +1,7 @@
+//36.13.1.using the name DESede rather than TripleDES
+//http://www.java2s.com/Tutorial/Java/0490__Security/usingthenameDESederatherthanTripleDES.htm
+
+
 import java.security.Key;
 
 import javax.crypto.Cipher;

@@ -1,3 +1,6 @@
+//36.10.1.DES/CBC/PKCS5Padding Cipher
+//http://www.java2s.com/Tutorial/Java/0490__Security/DESCBCPKCS5PaddingCipher.htm
+
 import java.security.Key;
 
 import javax.crypto.Cipher;

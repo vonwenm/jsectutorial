@@ -1,3 +1,6 @@
+//36.14.4.Generating a Parameter Set for the Diffie-Hellman Key Agreement Algorithm
+//http://www.java2s.com/Tutorial/Java/0490__Security/GeneratingaParameterSetfortheDiffieHellmanKeyAgreementAlgorithm.htm
+
 import java.security.AlgorithmParameterGenerator;
 import java.security.AlgorithmParameters;
 

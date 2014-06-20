@@ -1,3 +1,7 @@
+//36.12.4.Encrypt an object with DES
+//http://www.java2s.com/Tutorial/Java/0490__Security/EncryptanobjectwithDES.htm
+
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;

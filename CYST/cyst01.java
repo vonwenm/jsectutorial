@@ -1,3 +1,6 @@
+//6.11.1.Using CipherInputStream
+//http://www.java2s.com/Tutorial/Java/0490__Security/UsingCipherInputStream.htm
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;

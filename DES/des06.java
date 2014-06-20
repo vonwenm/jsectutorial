@@ -1,3 +1,8 @@
+//36.12.6.Encrypting a String with DES
+//http://www.java2s.com/Tutorial/Java/0490__Security/EncryptingaStringwithDES.htm
+
+
+
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;

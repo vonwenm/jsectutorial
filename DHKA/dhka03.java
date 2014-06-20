@@ -1,3 +1,7 @@
+//36.14.3.Implementing the Diffie-Hellman key exchange
+//http://www.java2s.com/Tutorial/Java/0490__Security/ImplementingtheDiffieHellmankeyexchange.htm
+
+
 import java.math.BigInteger;
 import java.security.KeyFactory;
 import java.security.KeyPair;

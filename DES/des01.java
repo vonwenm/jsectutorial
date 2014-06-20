@@ -1,3 +1,7 @@
+//36.12.1.CBC using DES with an IV based on a nonce. In this case a hypothetical message number.
+// http://www.java2s.com/Tutorial/Java/0490__Security/CBCusingDESwithanIVbasedonanonceInthiscaseahypotheticalmessagenumber.htm
+
+
 import java.security.Security;
 
 import javax.crypto.Cipher;

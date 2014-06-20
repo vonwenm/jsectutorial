@@ -1,3 +1,6 @@
+//36.12.7.Encrypting a File or Stream with DES
+//http://www.java2s.com/Tutorial/Java/0490__Security/EncryptingaFileorStreamwithDES.htm
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStream;

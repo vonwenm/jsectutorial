@@ -1,3 +1,6 @@
+//36.12.2.Basic symmetric encryption example with CTR using DES
+//http://www.java2s.com/Tutorial/Java/0490__Security/BasicsymmetricencryptionexamplewithCTRusingDES.htm
+
 import java.security.Security;
 
 import javax.crypto.Cipher;

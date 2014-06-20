@@ -1,3 +1,7 @@
+//36.14.2.Diffie-Hellman with Elliptic Curve
+//http://www.java2s.com/Tutorial/Java/0490__Security/DiffieHellmanwithEllipticCurve.htm
+
+
 import java.math.BigInteger;
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;

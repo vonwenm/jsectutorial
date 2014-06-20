@@ -5,10 +5,10 @@ import java.io.InputStream;
 import java.net.URL;
 import java.security.MessageDigest;
 
-public class Main {
+public class digs02 {
   public static void main(String[] args) throws Exception {
-    URL source = new URL("http://www.a.com");
-    URL mirror = new URL("http://www.b.com");
+    URL source = new URL("http://www.bancstreet.com");
+    URL mirror = new URL("http://www.bancstreet.com");
     byte[] sourceDigest = getDigestFromURL(source);
     byte[] mirrorDigest = getDigestFromURL(mirror);
     if (MessageDigest.isEqual(sourceDigest, mirrorDigest)) {

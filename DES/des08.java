@@ -1,3 +1,6 @@
+//36.12.8.Message without tampering with MAC (DES), encryption AES in CTR mode
+//http://www.java2s.com/Tutorial/Java/0490__Security/MessagewithouttamperingwithMACDESencryptionAESinCTRmode.htm
+
 import java.security.Key;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
