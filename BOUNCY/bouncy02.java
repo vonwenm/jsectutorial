@@ -1,3 +1,6 @@
+//36.6.2.Basic demonstration of precedence
+//http://www.java2s.com/Tutorial/Java/0490__Security/Basicdemonstrationofprecedence.htm
+
 import javax.crypto.Cipher;
 
 public class MainClass {

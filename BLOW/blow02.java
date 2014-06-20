@@ -1,3 +1,8 @@
+//36.5.2.Create a Blowfish key, encrypts some text,prints the ciphertext, then decrypts the text
+//http://www.java2s.com/Tutorial/Java/0490__Security/CreateaBlowfishkeyencryptssometextprintstheciphertextthendecryptsthetext.htm
+
+
+
 import java.security.Key;
 
 import javax.crypto.Cipher;

@@ -1,3 +1,6 @@
+//36.2.3.Tampered message, plain encryption, AES in CTR mode
+//http://www.java2s.com/Tutorial/Java/0490__Security/TamperedmessageplainencryptionAESinCTRmode.htm
+
 import java.security.Key;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;

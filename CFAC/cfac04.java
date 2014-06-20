@@ -1,3 +1,6 @@
+//36.8.4.Importing a Certificate from a File
+//http://www.java2s.com/Tutorial/Java/0490__Security/ImportingaCertificatefromaFile.htm
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.security.cert.CertificateFactory;

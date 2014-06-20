@@ -1,3 +1,6 @@
+//36.7.2.KeyStore Example
+//http://www.java2s.com/Tutorial/Java/0490__Security/KeyStoreExample.htm
+
 import java.io.FileInputStream;
 import java.security.KeyStore;
 import java.security.cert.Certificate;

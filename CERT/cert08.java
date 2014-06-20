@@ -1,3 +1,6 @@
+//36.7.8.Exporting a Certificate to a File
+//http://www.java2s.com/Tutorial/Java/0490__Security/ExportingaCertificatetoaFile.htm
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

@@ -1,3 +1,6 @@
+//36.7.7.Validate certificate
+//http://www.java2s.com/Tutorial/Java/0490__Security/Validatecertificate.htm
+
 import java.io.FileInputStream;
 import java.security.cert.CertPath;
 import java.security.cert.CertPathValidator;

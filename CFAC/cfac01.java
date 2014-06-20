@@ -1,3 +1,8 @@
+//36.8.1.Using the CertificateFactory Class
+//http://www.java2s.com/Tutorial/Java/0490__Security/UsingtheCertificateFactoryClass.htm
+
+
+
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;

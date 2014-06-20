@@ -1,3 +1,7 @@
+//36.3.1.Basic stream cipher example
+//http://www.java2s.com/Tutorial/Java/0490__Security/Basicstreamcipherexample.htm
+
+
 import java.security.Security;
 
 import javax.crypto.Cipher;

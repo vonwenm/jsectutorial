@@ -1,3 +1,6 @@
+//36.5.3.A Blowfish example
+//http://www.java2s.com/Tutorial/Java/0490__Security/ABlowfishexample.htm
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.security.Key;

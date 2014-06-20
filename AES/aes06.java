@@ -1,3 +1,6 @@
+//36.2.6.AES wraps RSA
+//http://www.java2s.com/Tutorial/Java/0490__Security/AESwrapsRSA.htm
+
 import java.security.Key;
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;

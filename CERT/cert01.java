@@ -1,3 +1,6 @@
+//36.7.1.Using Certificates in Java
+//http://www.java2s.com/Tutorial/Java/0490__Security/UsingCertificatesinJava.htm
+
 import java.io.FileInputStream;
 import java.security.cert.Certificate;
 import java.security.cert.CertificateFactory;

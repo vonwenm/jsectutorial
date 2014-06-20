@@ -1,3 +1,6 @@
+//36.7.9.Validating a Certification Path using the most-trusted CAs in the JDK's cacerts file.
+//http://www.java2s.com/Tutorial/Java/0490__Security/ValidatingaCertificationPathusingthemosttrustedCAsintheJDKscacertsfile.htm
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.security.KeyStore;

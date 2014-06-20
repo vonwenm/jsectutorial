@@ -1,3 +1,7 @@
+//36.2.1.using the KeyGenerator class and showing how to create a SecretKeySpec from an encoded key.
+//http://www.java2s.com/Tutorial/Java/0490__Security/usingtheKeyGeneratorclassandshowinghowtocreateaSecretKeySpecfromanencodedkey.htm
+
+
 import java.security.Key;
 import java.security.Security;
 

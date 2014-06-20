@@ -1,3 +1,7 @@
+//36.8.2.reading multiple certificates with a CertificateFactory.
+//http://www.java2s.com/Tutorial/Java/0490__Security/readingmultiplecertificateswithaCertificateFactory.htm
+
+
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;

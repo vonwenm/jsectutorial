@@ -1,3 +1,6 @@
+//36.2.4.Tampered message, encryption with digest, AES in CTR mode
+//http://www.java2s.com/Tutorial/Java/0490__Security/TamperedmessageencryptionwithdigestAESinCTRmode.htm
+
 import java.security.Key;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

@@ -1,3 +1,6 @@
+//36.7.6.Store Certificate
+//http://www.java2s.com/Tutorial/Java/0490__Security/StoreCertificate.htm
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;

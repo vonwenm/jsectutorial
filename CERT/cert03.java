@@ -1,3 +1,7 @@
+//36.7.3.Creating a Certificate in Java
+//http://www.java2s.com/Tutorial/Java/0490__Security/CreatingaCertificateinJava.htm
+
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.security.KeyStore;

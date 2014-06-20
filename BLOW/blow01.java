@@ -1,3 +1,7 @@
+//36.5.1.Generate a Blowfish key
+//http://www.java2s.com/Tutorial/Java/0490__Security/GenerateaBlowfishkey.htm
+
+
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;

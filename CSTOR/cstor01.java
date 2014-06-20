@@ -1,3 +1,7 @@
+//36.9.1.CertStore and CertStoreParameters
+//http://www.java2s.com/Tutorial/Java/0490__Security/CertStoreandCertStoreParameters.htm
+
+
 import java.io.FileInputStream;
 import java.security.cert.CertStore;
 import java.security.cert.CertStoreParameters;

@@ -1,3 +1,7 @@
+//36.7.5.Generate X.509 certificate
+//http://www.java2s.com/Tutorial/Java/0490__Security/GenerateX509certificate.htm
+
+
 import java.io.FileInputStream;
 import java.security.cert.CertPath;
 import java.security.cert.Certificate;

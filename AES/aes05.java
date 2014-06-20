@@ -1,3 +1,6 @@
+//36.2.5.Tampered message with HMac, encryption with AES in CTR mode
+//http://www.java2s.com/Tutorial/Java/0490__Security/TamperedmessagewithHMacencryptionwithAESinCTRmode.htm
+
 import java.security.Key;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

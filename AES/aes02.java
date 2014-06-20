@@ -1,3 +1,6 @@
+//36.2.2.AES Key generator
+//http://www.java2s.com/Tutorial/Java/0490__Security/AESKeygenerator.htm
+
 import java.security.Key;
 import java.security.Security;
 

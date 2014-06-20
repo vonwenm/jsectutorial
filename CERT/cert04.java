@@ -1,3 +1,7 @@
+//36.7.4.Import certificate
+//http://www.java2s.com/Tutorial/Java/0490__Security/Importcertificate.htm
+
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.security.KeyStore;

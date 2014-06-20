@@ -1,3 +1,7 @@
+//36.8.3.Creating a Certification Path
+//http://www.java2s.com/Tutorial/Java/0490__Security/CreatingaCertificationPath.htm
+
+
 import java.io.FileInputStream;
 import java.security.KeyStore;
 import java.security.cert.CertPath;

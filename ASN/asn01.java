@@ -1,3 +1,6 @@
+//36.4.1.Encoding an IV with ASN.1
+//http://www.java2s.com/Tutorial/Java/0490__Security/EncodinganIVwithASN1.htm
+
 import java.security.AlgorithmParameters;
 import java.security.Security;
 
