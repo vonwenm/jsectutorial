@@ -5,7 +5,7 @@ import java.security.cert.Certificate;
 import java.security.cert.CertificateFactory;
 import java.util.Arrays;
 
-public class Main {
+public class cfac03 {
   public static void main(String[] argv) throws Exception {
     FileInputStream is = new FileInputStream("your.keystore");
 
