@@ -3,6 +3,7 @@
 
 package com.huuzkee.jstut.KPG;
 
+/*
 import java.io.OutputStreamWriter;
 import java.math.BigInteger;
 import java.security.InvalidKeyException;
@@ -130,3 +131,4 @@ public class kpg03 {
     pemWrt.close();
   }
 }
+*/
