@@ -4,7 +4,7 @@ import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
-public class ces01 {
+public class des01 {
   public static void main(String[] args) throws Exception {
     Security.addProvider(new org.bouncycastle.jce.provider.BouncyCastleProvider());
 
