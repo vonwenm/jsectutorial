@@ -7,7 +7,7 @@ import java.security.cert.CollectionCertStoreParameters;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainClass {
+public class cstor01 {
   public static void main(String args[]) throws Exception {
 
     CertificateFactory cf = CertificateFactory.getInstance("X.509");
