@@ -6,6 +6,7 @@ package com.huuzkee.jstut.SKEY;
 import javax.crypto.SecretKey;
 
 //public class XORKey implements SecretKey {
+/*
 public class skey04 implements SecretKey {
   int rotValue;
 
@@ -30,3 +31,5 @@ public class skey04 implements SecretKey {
     return b;
   }
 }
+
+*/

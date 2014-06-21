@@ -12,7 +12,7 @@ import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.PBEKeySpec;
 import javax.crypto.spec.PBEParameterSpec;
 
-public class MainClass {
+public class skey03 {
   public static void main(String[] args) throws Exception {
     KeyGenerator kg = KeyGenerator.getInstance("DESede");
     Key sharedKey = kg.generateKey();
